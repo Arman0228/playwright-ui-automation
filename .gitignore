@@ -17,3 +17,11 @@ tracing
 chromium-webkit
 chromium-webkit-firefox
 webkit-firefox
+
+# coverage
+coverage.html
+coverage-results
+coverage-report.json
+coverage-history.json
+
+.DS_Store
