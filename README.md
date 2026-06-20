@@ -19,8 +19,8 @@ tests/          # Тесты по фичам (authentication, dashboard, courses
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/Arman0228/autotests-ui.git
-cd autotests-ui
+git clone https://github.com/Arman0228/playwright-ui-automation.git
+cd playwright-ui-automation
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 playwright install chromium
