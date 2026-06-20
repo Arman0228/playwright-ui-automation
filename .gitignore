@@ -5,6 +5,10 @@
 .venv
 __pycache__
 
+# secrets & local state
+.env
+browser-state.json
+
 #allure
 allure-results
 allure-report
